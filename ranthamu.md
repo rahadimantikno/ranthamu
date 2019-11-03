@@ -6,4 +6,9 @@ isi dari ranthamu website
 - project
 - video
 - contact
-© 2019 GitHub, Inc.
+
+to do list
+
+- buat html dan css
+- buat database 
+
