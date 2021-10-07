@@ -1,0 +1,17 @@
+version: '3'
+
+service:
+	my-app:
+		build:
+		copy:
+	
+	web-server:
+		image: nginx
+		container_name: ranthamu-nginx
+		volumes:
+	
+	db:
+		image: mariadb
+		container_name: ranthamu-mariadb
+		volumes:
+		 
