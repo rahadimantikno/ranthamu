@@ -2,7 +2,8 @@ isi dari ranthamu website
 
 - about
 - karya ilmiah/academic journal
-- berita/news
+- berita/news/renungan
 - project
 - video
+- link (ranthamu members)
 - contact
