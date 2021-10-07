@@ -1,5 +1,4 @@
-isi dari ranthamu website
-
+ISI DARI WEBISTE
 - about
 - karya ilmiah/academic journal
 - berita/news/renungan
@@ -7,3 +6,12 @@ isi dari ranthamu website
 - video
 - link (ranthamu members)
 - contact
+=====
+
+DOCKER
+- wordpress(a)
+- image(b) trial alpine or phusion/baseimage-docker (minium ubuntu)
+- php(c) nya yg stabil
+- untuk db(d) bisa trial mariadb, mongo atau redis
+- buat Dockerfile untuk menggabungkan (a)+(b)+(c)
+- buat docker-compose untuk semuanya {plus (d)}
